@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ABE8163C-1E13-4EEB-ADB6-0223E3921AE9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ejercicios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49D7E692-A074-460B-BCC5-C9D4C4846BB4</key>
+		<string>https://github.com/JonasLopezMesa/Ejercicios_diarios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ejercicios.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49D7E692-A074-460B-BCC5-C9D4C4846BB4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JonasLopezMesa/Ejercicios_diarios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49D7E692-A074-460B-BCC5-C9D4C4846BB4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49D7E692-A074-460B-BCC5-C9D4C4846BB4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ejercicios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
